@@ -7,3 +7,4 @@ These fine people brought us delight by adding their gems of freedom to this del
 ## We thank you for your gems of freedom :gem:
 
 - [Symbioquine](https://symbioquine.net/) (GitHub: [@symbioquine](https://github.com/symbioquine))
+- [m.stenta](https://mstenta.net/) (GitHub: [@mstenta](https://github.com/mstenta) / Drupal.org: [@mstenta](https://www.drupal.org/u/mstenta))
