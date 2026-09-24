@@ -43,8 +43,10 @@ In addition to [![][farmOS] farmOS's official documentation](https://farmos.org/
 - TODO...
 
 ## Public Hosting
+
 Providers of public farmOS hosting.
-- TODO...
+
+- [Farmier](https://farmier.com/) (by farmOS maintainer [@mstenta](https://github.com/mstenta))
 
 ## Community modules
 
