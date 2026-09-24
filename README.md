@@ -129,4 +129,4 @@ With delight we present you some of our [delightful contributors](delightful-con
 To the extent possible under law, the [maintainers](#maintainers) and other [contributors](#contributors) have waived all copyright and related or neighboring rights to this work.
 
 
-[farmOS]: https://raw.githubusercontent.com/farmOS/delightful-farmOS/main/assets/farmOS-logo-512x512.png
+[farmOS]: https://raw.githubusercontent.com/farmOS/delightful-farmOS/main/assets/farmOS-logo-20x20.png
