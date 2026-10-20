@@ -97,7 +97,8 @@ Modules hosted on drupal.org can declare themselves part of the
 [farmOS Ecosystem](https://www.drupal.org/project/farm/ecosystem).
 
 ## Tools
-- TODO...
+### Hosting Tools
+- [Easypanel](https://easypanel.io) - Self-hosted Docker deployment platform with a [one-click farmOS template](https://easypanel.io/templates/farmos).
 
 ## References
 Noteworthy news, articles and information about farmOS.
