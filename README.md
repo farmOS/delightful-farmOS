@@ -83,6 +83,7 @@ Community-contributes (aka "contrib") modules for farmOS.
 - [farmOS MyFarmKey](https://www.drupal.org/project/farm_myfarmkey)
 - [farmOS NRCS](https://www.drupal.org/project/farm_nrcs)
 - [farmOS Organic](https://www.drupal.org/project/farm_organic)
+- [farmOS Piknik (Marketplace)](https://www.drupal.org/project/farm_piknik)
 - [farmOS Profile](https://www.drupal.org/project/farm_profile)
 - [farmOS Project Plan](https://www.drupal.org/project/farm_project_plan)
 - [farmOS REI](https://www.drupal.org/project/farm_rei)
