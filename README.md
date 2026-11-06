@@ -185,7 +185,7 @@ or other community members in the [forum](https://farmOS.discourse.group),
 - **2019 September 17th** [Civil Eats: Investment in Regenerative Agriculture Connects the Dots Between Soil and Plate](https://civileats.com/2019/09/17/investment-in-regenerative-agriculture-connects-the-dots-between-soil-and-plate)
 - **2019 August 28th** [Beginning Farmers: OpenTEAM Soil Health Decision Making Tool](https://www.beginningfarmers.org/openteam-soil-health-decision-making-tool/)
 - **2019 August 22nd** [GOAT/OpenTEAM In-Depth Web Series: farmOS](https://youtu.be/KLQfKtsLDxA)
-- **2019 August 1st** [Morning Ag Clips: Global collaboration creates open source climate solutions](https://www.no-tillfarmer.com/articles/9009-global-collaborative-launches-openteam-to-address-soil-health-and-mitigate-climate-change)
+- **2019 August 1st** [Morning Ag Clips: Global collaboration creates open source climate solutions](https://www.morningagclips.com/global-collaboration-creates-open-source-climate-solutions/)
 - **2019 August 1st** [No-Till Farmer: Global Collaborative Launches OpenTEAM to Address Soil Health and Mitigate Climate Change](https://www.no-tillfarmer.com/articles/9009-global-collaborative-launches-openteam-to-address-soil-health-and-mitigate-climate-change)
 - **2019 July 31st** [Foundation for Food and Agriculture Research: Global Collaborative Launches OpenTEAM™](https://foundationfar.org/2019/07/31/global-collaborative-launches-openteam-the-first-open-source-technology-ecosystem-in-the-world-to-address-soil-health-and-mitigate-climate-change)
 - **2019 July 23rd** Red Hat Open Source Stories: Farming for the Future - The Open Farmer
