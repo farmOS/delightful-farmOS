@@ -9,6 +9,7 @@ A curated list of delightful [farmOS](https://farmOS.org/)-related projects and 
 - [Official resources](#official-resources)
 - [Documentation](#documentation)
 	- [Tutorials](#tutorials)
+- [Live demo](#live-demo)
 - [Public hosting](#public-hosting)
 - [Community modules](#community-modules)
 - [Tools](#tools)
@@ -39,6 +40,14 @@ In addition to [![][farmOS] farmOS's official documentation](https://farmos.org/
 
 ### Tutorials
 - TODO...
+
+## Live demo
+
+Some ways to interact with a live demo of farmOS software.
+
+- [Rooted Solutions](https://farmos-demo.rootedsolutions.io/) (via [Tugboat](https://tugboat.qa/)) - online, runs farmOS 3.x, no Administrator access, limited to 12 hours
+- [Wutta Project](https://demo.wuttaproject.org/) - online, runs latest farmOS, no Administrator access, no time limit
+- [local/dev with docker compose](https://forgejo.wuttaproject.org/lance/wuttafarm-demo) - local only, runs latest farmOS, with Administrator access
 
 ## Public Hosting
 
